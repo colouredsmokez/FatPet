@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 0ec51d5ff2a058249aa09654583ef776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3847811367359845507
+    second: rabbit_starve_idle_0
+  - first:
+      213: -670478531410204269
+    second: rabbit_starve_idle_1
+  - first:
+      213: -4780860266281303399
+    second: rabbit_starve_idle_2
+  - first:
+      213: 4074089367488528272
+    second: rabbit_starve_idle_3
+  - first:
+      213: 6018696071848305125
+    second: rabbit_starve_idle_4
+  - first:
+      213: 2965705186289024996
+    second: rabbit_starve_idle_5
+  - first:
+      213: -5652998957466159339
+    second: rabbit_starve_idle_6
+  - first:
+      213: -4305299713141422548
+    second: rabbit_starve_idle_7
+  - first:
+      213: 5240423388733758258
+    second: rabbit_starve_idle_8
+  - first:
+      213: -8511127470542707865
+    second: rabbit_starve_idle_1
+  - first:
+      213: 1465127935050707904
+    second: rabbit_starve_idle_2
+  - first:
+      213: 3586737067264418631
+    second: rabbit_starve_idle_3
+  - first:
+      213: 6089457354640280890
+    second: rabbit_starve_idle_4
+  - first:
+      213: -2019800854790447342
+    second: rabbit_starve_idle_5
+  - first:
+      213: 2537751326056333931
+    second: rabbit_starve_idle_6
+  - first:
+      213: -1181585355719227721
+    second: rabbit_starve_idle_7
+  - first:
+      213: 7788699511443930234
+    second: rabbit_thin_idle_0
+  - first:
+      213: -8465151923564019047
+    second: rabbit_thin_idle_1
+  - first:
+      213: -5485850591373594542
+    second: rabbit_thin_idle_2
+  - first:
+      213: 1212633801396523708
+    second: rabbit_thin_idle_3
+  - first:
+      213: 1743825422169697641
+    second: rabbit_thin_idle_4
+  - first:
+      213: 235836157104584655
+    second: rabbit_thin_idle_5
+  - first:
+      213: -4877163056193026960
+    second: rabbit_thin_idle_6
+  - first:
+      213: 8006316632597468475
+    second: rabbit_thin_idle_7
+  - first:
+      213: -8592494043092398691
+    second: rabbit_thin_idle_0
+  - first:
+      213: 5176521526614453831
+    second: rabbit_thin_idle_1
+  - first:
+      213: 1868338158317744332
+    second: rabbit_thin_idle_2
+  - first:
+      213: -8836343104753349349
+    second: rabbit_thin_idle_3
+  - first:
+      213: -1911679139219988217
+    second: rabbit_thin_idle_4
+  - first:
+      213: 3542529183902294181
+    second: rabbit_thin_idle_5
+  - first:
+      213: -5260937936142131704
+    second: rabbit_thin_idle_6
+  - first:
+      213: -6808852940072775684
+    second: rabbit_thin_idle_7
+  - first:
+      213: -5793190831221425557
+    second: rabbit_thin_idle_8
+  - first:
+      213: 2737463604035236623
+    second: rabbit_thin_idle_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 175
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rabbit_thin_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 225
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbfd970f4071c60800000000000000
+      internalID: 7788699511443930234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_thin_idle_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 224
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99280420d2db58a80800000000000000
+      internalID: -8465151923564019047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_thin_idle_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 224
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507f42d3f75ed3b0800000000000000
+      internalID: -5485850591373594542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_thin_idle_3
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 0
+        width: 224
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21fde740424d010800000000000000
+      internalID: 1212633801396523708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rabbit_thin_idle_4
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1
+        width: 224
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d68b67bff433810800000000000000
+      internalID: 1743825422169697641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://fatpet-e99b2.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">412422770605</string>
+  <string name="google_storage_bucket" translatable="false">fatpet-e99b2.appspot.com</string>
+  <string name="project_id" translatable="false">fatpet-e99b2</string>
+  <string name="google_api_key" translatable="false">AIzaSyBE2gNx21Sa9ETv6V34M5NuA4lWHHO8N0E</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBE2gNx21Sa9ETv6V34M5NuA4lWHHO8N0E</string>
+  <string name="google_app_id" translatable="false">1:412422770605:android:44f4f737077a3b727adb24</string>
+  <string name="default_web_client_id" translatable="false">412422770605-p235hvrreid8geafpqcd0406qrgfc7m9.apps.googleusercontent.com</string>
+</resources>

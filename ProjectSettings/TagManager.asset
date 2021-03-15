@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Pet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Home
+  - Bars
+  - Pet
+  - Panels
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 882477865
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Home
+    uniqueID: 859931093
+    locked: 0
+  - name: Bars
+    uniqueID: 705817935
+    locked: 0
+  - name: Pet
+    uniqueID: 3506458265
+    locked: 0
+  - name: Panels
+    uniqueID: 652915405
+    locked: 0
